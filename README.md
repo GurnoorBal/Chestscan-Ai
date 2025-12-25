@@ -1,3 +1,8 @@
+> Team Project  
+> This project was developed as part of a team capstone.  
+> Contributors: Hamza Issa, Jared Paul, Ahmad Hamadi, Gurnoor Bal.  
+>  
+> This repository is a personal copy for portfolio and demonstration purposes.
 # Scanalyse AI
 
 Developer Names: Hamza Issa, Jared Paul, Ahmad Hamadi, Gurnoor Bal
